@@ -1,0 +1,43 @@
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.csproj.AssemblyReference.cache
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.csproj.GenerateResource.cache
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.AssemblyInfoInputs.cache
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.AssemblyInfo.cs
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.csproj.CoreCompileInputs.cache
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database_Project.Form1.resources
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.exe
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.deps.json
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.runtimeconfig.json
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.pdb
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Oracle.DataAccess.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.csproj.CopyComplete
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\refint\Database Project.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.pdb
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\Database Project.genruntimeconfig.cache
+C:\Users\Vinci\Documents\318\Group project\Database Project\obj\Debug\net6.0-windows\ref\Database Project.dll
+C:\Users\Vinci\Documents\318\Group project\Database Project\bin\Debug\net6.0-windows\Database Project.dll.config
